@@ -39,16 +39,17 @@ Olá, eu sou **ORION** e estou aprendendo '**python**'.
 
 #2 - AVANÇOS 
    
- - Criar um "seletor de gênero" para a história a ser criada; (  )
-- Criar e fazer leitura de arquivos de gêneros, permitindo que a comunidade criar seus próprios; (  )
- - Adicionar sons e músicas de acordo com o gênero selecionado; (  )
-
+- Criar um "seletor de gênero" para a história a ser criada; ( ⌛ )
+- Criar e fazer leitura de arquivos de gêneros, permitindo que a comunidade criar seus próprios contos; ( ⌛ )
+- Adicionar sons e músicas de acordo com o gênero selecionado. ( ⌛ )
+- Adicionar cores em terminal.
+  
        - BETA...( )
 
 
 #3 - CARAMBA!
-- Adicionar leitura de voz sintetica; (   )
-- Adicionar reconhecimento de voz ( )
+- Adicionar leitura de voz sintetica; ( ⌛ )
+- Adicionar reconhecimento de voz ( ⌛ )
 
 ## FAQ
 
