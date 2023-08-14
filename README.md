@@ -4,7 +4,7 @@
 
 # MyHystoPY.py
 
-O **MyhistoPYy.py** masce basicamente como um projeto de aprendizado. 
+O **MyhistoPY.py** masce basicamente como um projeto de aprendizado. 
 
 Olá, eu sou **ORION** e estou aprendendo '**python**'.
 É uma longa caminhada e eu preciso de algo que me acompanhe por ela... e este é o caso. é um projeto pessoal no qual aplicarei conhecimento a medida que surgem
